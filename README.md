@@ -1,6 +1,6 @@
 # ML Gym
 
-Project-based learning for machine learning using real-world datasets.
+Project-based learning of machine learning algorithms using real-world datasets.
 
 ## About
 
