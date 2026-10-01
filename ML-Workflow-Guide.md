@@ -2,7 +2,7 @@
 
 A reusable, model-agnostic workflow for core machine learning and deep learning. It covers the questions to ask, the decisions to make, and the checks that prevent common mistakes across tabular, text, image, audio, and time-series projects.
 
-No checklist can replace domain knowledge. Treat each recommendation as a default to validate against the prediction goal, data collection process, and cost of errors. Specialized systems such as retrieval-augmented generation (RAG) are outside this guide.
+No checklist can replace domain knowledge. Treat each recommendation as a default to validate against the prediction goal, data collection process, and cost of errors.
 
 ---
 
