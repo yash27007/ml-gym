@@ -1,7 +1,7 @@
 [project]
 name = "ml-gym"
 version = "0.1.0"
-description = "Add your description here"
+description = "A hands on approch in understanding the ML algorithms"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

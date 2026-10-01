@@ -41,7 +41,7 @@ The datasets used in this repository are collected from [Kaggle](https://www.kag
 ## Getting Started
 
 1. Clone the repository.
-2. Set up the Python environment described in `pyproject.toml`.
+2. Install, `uv` package manager and then install the required dependencies from `pyproject.toml` using `uv sync`.
 3. Open a project notebook from the relevant `notebooks` directory.
 4. Run the notebook cells in order and experiment with the workflow.
 
