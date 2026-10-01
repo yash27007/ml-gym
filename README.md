@@ -25,9 +25,14 @@ The projects will cover machine learning topics including:
 
 More algorithms and projects will be added over time.
 
+## Guide
+
+- [ML Workflow Guide](ML-Workflow-Guide.md): a reusable guide to EDA, preprocessing, model training, evaluation, and deployment for core machine learning and deep learning.
+
 ## Projects
 
 - [01-linear-regression](01-linear-regression/)
+- [02-logistic-regression](02-logistic-regression/)
 
 ## Data Sources
 
